@@ -8,6 +8,7 @@ _static
 _templates
 .DS_store
 .venv
+*_venv
 *.swp
 *.pyc
 .cache/
